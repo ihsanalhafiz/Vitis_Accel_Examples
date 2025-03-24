@@ -1,0 +1,5 @@
+name: dataflow_stream
+description: Boot assets for the dataflow_stream configuration inside the PAC_contrainer container
+revision: 1.0
+assets:
+    zcu104: zcu104
